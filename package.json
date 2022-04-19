@@ -4,7 +4,8 @@
     "description": "creacion de proyecto con clases y pruebas de unidad",
     "main": "index.js",
     "scripts": {
-        "test": "jest"
+        "test": "jest",
+        "start": "node index.js"
     },
     "author": "gabriel villagran",
     "license": "ISC",
